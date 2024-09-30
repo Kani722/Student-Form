@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FirstName>Chanidu</FirstName>
+    <LastName>cscc</LastName>
+    <DateOfBirth>2024-01-16T00:00:00</DateOfBirth>
+    <ClassStanding>Sophomore</ClassStanding>
+    <Address>cscsscsss</Address>
+    <City>City B</City>
+    <PostCode>sfsffs</PostCode>
+  </Student>
+  <Student>
+    <FirstName>Chansds</FirstName>
+    <LastName>fdfdf</LastName>
+    <DateOfBirth>2024-01-19T20:56:12.7959788+05:30</DateOfBirth>
+    <ClassStanding>Freshman</ClassStanding>
+    <Address />
+    <City>City A</City>
+    <PostCode />
+  </Student>
+  <Student>
+    <FirstName>Ghan</FirstName>
+    <LastName>Kanishka</LastName>
+    <DateOfBirth>2024-09-30T16:55:15.0548226+05:30</DateOfBirth>
+    <ClassStanding>Senior</ClassStanding>
+    <Address>aaa</Address>
+    <City>City A</City>
+    <PostCode>54688</PostCode>
+  </Student>
+</ArrayOfStudent>
